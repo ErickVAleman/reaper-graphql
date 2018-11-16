@@ -1,0 +1,6 @@
+node_modules
+package-lock.json
+build
+src/SQL/conf.ts
+yarn.lock
+yarn-error.log
